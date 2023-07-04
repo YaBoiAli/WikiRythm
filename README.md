@@ -29,7 +29,7 @@ THEN my searches persist
 
 To use the app enter an artist's name and hit the search button.  You will be presented with a bio of the artist along with their photo and top releases. 
 
-https://kimberlyc1904.github.io/
+[https://kimberlyc1904.github.io/](https://yaboiali.github.io/WikiRythm/)
 
 ![screenshot](assets/images/ScreenShot.png)
 
